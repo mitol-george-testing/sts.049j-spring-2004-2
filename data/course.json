@@ -1,0 +1,46 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "848b0b45-1e20-ba72-ae02-d3838cd12ff5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Technology and Gender in American History",
+  "course_description": "This course centers on the changing relationships between men, women, and technology in American history. Topics include theories of gender, technologies of production and consumption, the gendering of public and private space, men's and women's roles in science and technology, the effects of industrialization on sexual divisions of labor, gender and identity at home and at work.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.049J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
